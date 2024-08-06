@@ -22,6 +22,6 @@ namespace OOP_s
 
 /*  what is a property?
  *  a property is a class member that provides a flexible mechanism to read and write private field.
- * 
- * 
+ * property is  a specialized function only. 
+ *  specialized means proprties are used only to get and set field values. 
  */
